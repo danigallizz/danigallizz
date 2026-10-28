@@ -2,8 +2,7 @@
 
 **Responsabile IT** presso [Certificati.Pro](https://github.com/Certificati-Pro) · 📍 Milano
 
-Mi occupo dell'infrastruttura e degli strumenti digitali dell'azienda: dai servizi backend al sito web, fino ai progetti software su misura. Mi piace scrivere codice veloce, pulito e affidabile.
-
+Mi occupo dell'infrastruttura e degli strumenti digitali dell'azienda: dai servizi backend al sito web, fino ai progetti software su misura.
 ## 🛠️ Competenze
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
